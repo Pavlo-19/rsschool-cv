@@ -15,8 +15,6 @@
 - _CSS_,
 - _JavaScript_
 
-> Вся наша жизнь - игра!
-
 ---
 
 ### Experience of work:
@@ -40,13 +38,6 @@ for (let i = 2; i <= 7; i++) {
 
 ---
 
-### Certification:
-
-- [JavaScript 2.0] (https://itgid.info/certificate/view?Certificate%5Buid%5D=hpf511yvz5)
-- [English Certificate] (https://www.efset.org/cert/vV2Q3f)
-
----
-
 ### Languages:
 
 - **UKR** (native)
@@ -59,3 +50,12 @@ for (let i = 2; i <= 7; i++) {
 ### Education:
 
 - _National Music Academy of Ukraine, Kyiv (piano teacher &amp; concert pianist, Master degree)._
+
+### Certification:
+
+- JavaScript 2.0 (https://itgid.info/certificate/view?Certificate%5Buid%5D=hpf511yvz5)
+- English Certificate (https://www.efset.org/cert/vV2Q3f)
+
+---
+
+> Вся наша жизнь - игра!
